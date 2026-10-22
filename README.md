@@ -1,4 +1,4 @@
-﻿# AI News Intelligence & Agentic RAG Platform   https://ai-news-aggregator-crw1.onrender.com
+﻿# AI News Intelligence & Agentic RAG Platform   https://ai-news-intelligence-and-agentic-rag-nn17.onrender.com
  <div align="center">
 
 # ⚡ AI News Intelligence & Agentic RAG Platform
